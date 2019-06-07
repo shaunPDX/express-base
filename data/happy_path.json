@@ -26,6 +26,7 @@
         "id": 2,
         "name": "Ervin Howell",
         "username": "Antonette",
+        "displayname": "Displayname 2",
         "email": "Shanna@melissa.tv",
         "address": {
         "street": "Victor Plains",
@@ -49,6 +50,7 @@
         "id": 3,
         "name": "Clementine Bauch",
         "username": "Samantha",
+        "displayname": "Displayname 3",
         "email": "Nathan@yesenia.net",
         "address": {
         "street": "Douglas Extension",
